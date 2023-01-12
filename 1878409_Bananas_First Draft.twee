@@ -1,0 +1,701 @@
+:: StoryTitle
+1878409_Bananas_First Draft
+
+
+:: StoryData
+{
+  "ifid": "C4BAD6A7-0A35-4DD8-91D9-165484567D76",
+  "format": "Harlowe",
+  "format-version": "3.3.4",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Aden1 {"position":"1618.6000061035156,630","size":"100,100"}
+
+
+|noClick10>[(color: #ff86c0)[ //Coming Ma!//]]
+(mouseover-append: ?noClick10)[
+(display: "Dad1")
+] 
+
+
+:: Aden10 {"position":"3394.39990234375,2260.800048828125","size":"100,100"}
+
+
+|noClick52>[(color: #ff86c0)[ //Yes but-//]]
+(mouseover-append: ?noClick52)[
+(display: "Kaylani3")
+] 
+
+
+:: Aden11 {"position":"3648.60009765625,2253.800048828125","size":"100,100"}
+
+
+|noClick54>[(color: #ff86c0)[ //You're right. Will you help me?//]]
+(mouseover-append: ?noClick54)[
+(display: "Kaylani4")
+] 
+
+
+:: Aden2 {"position":"2209,634","size":"100,100"}
+
+
+|noClick15>[(color: #ff86c0)[ //I-//]]
+(mouseover-append: ?noClick15)[
+(display: "Aden3")
+] 
+
+
+:: Aden3 {"position":"2334,633","size":"100,100"}
+
+
+|noClick16>[(color: #ff86c0)[ //-I don't know what to say.//]]
+(mouseover-append: ?noClick16)[
+(display: "Aden4")
+] 
+
+
+:: Aden4 {"position":"2456,630","size":"100,100"}
+
+
+|noClick17>[(color: #ff86c0)[ //I am very sorry Papa.//]]
+(mouseover-append: ?noClick17)[
+(display: "Dad3")
+] 
+
+
+:: Aden5 {"position":"3270.4000244140625,637","size":"100,100"}
+
+
+|noClick23>[(color: #ff86c0)[ //Pa! Come on!//]]
+(mouseover-append: ?noClick23)[
+(display: "Dad6")
+] 
+
+
+:: Aden6 {"position":"3510.4000244140625,636","size":"100,100"}
+
+
+|noClick25>[(color: #ff86c0)[ //Yes Pa.//]]
+(mouseover-append: ?noClick25)[
+(display: "Dad7")
+] 
+
+
+:: Aden7 {"position":"3778.4000244140625,632","size":"100,100"}
+
+
+|noClick27>[(color: #ff86c0)[ //Yes, Pa. I know, I will do my best.//]]
+(mouseover-append: ?noClick27)[
+(display: "Mom5")
+] 
+
+
+:: Aden8 {"position":"3095.39990234375,1987","size":"100,100"}
+
+
+|noClick48>[(color: #ff86c0)[ //He was.//]]
+(mouseover-append: ?noClick48)[
+(display: "Kaylani1")
+] 
+
+
+:: Aden9 {"position":"3099.39990234375,2266.800048828125","size":"100,100"}
+
+
+|noClick50>[(color: #ff86c0)[ //So, so. I just- 
+I have to follow through his last wishes. He wanted me to enrich our community. To live by our teachings - our customs. I feel I am destined for more Kaylani.//]]
+(mouseover-append: ?noClick50)[
+(display: "Kaylani2")
+] 
+
+
+:: Bob2 {"position":"817,394","size":"100,100"}
+
+
+|noClick3>[(color: #FFFFFF)[ //Buck! Why would you say somein' like that? //] ]
+(mouseover-append: ?noClick3)[
+(display: "Buck2")
+] 
+
+
+:: Bob3 {"position":"1062,392","size":"100,100"}
+
+
+|noClick5>[(color: #FFFFFF)[ //You gotta start somewhere. We all did. Before I became the head of the paper I was a janitor -//] ]
+(mouseover-append: ?noClick5)[
+(display: "Buck3")
+] 
+
+
+:: Bob4 {"position":"1315.6000061035156,392","size":"100,100"}
+
+
+|noClick7>[(color: #FFFFFF)[ //Hear me out. I had to start somewhere. And so do you. You were always faster than green grass through a goose. When you were about yay high, you and Sandy would run through the Oakley's field. You'd speed past her. Sometimes you'd push her or run ahead of time. 
+
+Whatever you could do to be first - you did it. Sometimes life forces you to move like a herd of turtles. You will get what you want, Buck. I know it. //] ]
+(mouseover-append: ?noClick7)[
+(display: "Buck4")
+] 
+
+
+:: Bob5 {"position":"1600.6000061035156,395","size":"100,100"}
+
+
+[[Eventually]]
+
+(color:#808080)[ Every fibre in my being wanted to be successful, I just hadn't figured out how]
+
+
+:: Buck introduction {"position":"551,393","size":"100,100"}
+
+(set:$dynamicCombinedStyles to (css: "font-size: 150%")+(t8n: "pulse"))$dynamicCombinedStyles[<u>Buck's story</u>]
+
+|cigarette>[<img src="images/cigarette.png">]
+
+(color:#808080)[ This is my story. It's a good one I promise ]
+
+|noClick1>[(color: #FFFFFF)[ //So? How'd it go Buck?//] ]
+(mouseover-append: ?noClick1)[
+(display: "Buck1")
+] 
+
+
+:: Buck reading {"position":"3930.60009765625,3059","size":"100,100"}
+
+
+|newspaper>[<img src="images/newspaper.png">]
+
+
+|noClick56>[(color: #ff86c0)[ //Glad that stupid Alabama-bama got taken care of. He gave a good fight I give him that. No more bananas or consciousness for him hah! No one in Alabama eats bananas anyways.
+
+**-You did the right thing-**
+
+I know
+
+What! Dad's a traitor! They all are. **-Yes you're right-**. They're all jealous of your success Buck. You are a multi-millionaire. Soon to be Billionaire. Listen-//]]
+(mouseover-append: ?noClick56)[
+(display: "Buck12")
+] 
+
+
+:: Buck1 {"position":"683,398","size":"100,100"}
+
+
+|noClick2>[(color: #ff86c0)[ //I didn't do half as bad as I thought I would. They gave me the rundown. Asked me 'why I wanted a job there' and I said because I need a job... I don't know Dad. I don't think I'm cut out for an Accounting firm.//] ]
+(mouseover-append: ?noClick2)[
+(display: "Bob2")
+] 
+
+
+:: Buck10 {"position":"2950.800048828125,1363","size":"100,100"}
+
+
+
+|noClick43>[(color: #ff86c0)[ //-Start up capital!//]]
+(mouseover-append: ?noClick43)[
+(display: "Randall8")
+] 
+
+
+:: Buck11 {"position":"3084,1706.5999755859375","size":"100,100"}
+
+
+[[I'm in]]
+
+
+:: Buck12 {"position":"3935.60009765625,3210.800048828125","size":"100,100"}
+
+
+
+|noClick57>[(color: #ff86c0)[ //**Yes.**
+You have to be number one. The monk is taking yor spot. What should I do? You know what to do. Yes.//]]
+(mouseover-append: ?noClick57)[
+(display: "The End")
+] 
+
+
+:: Buck2 {"position":"945,397","size":"100,100"}
+
+
+
+|noClick4>[(color: #ff86c0)[ //What? It's true. They are hiring...I just...I just want more Dad. The pay is good, but I just want more.//] ]
+(mouseover-append: ?noClick4)[
+(display: "Bob3")
+] 
+
+
+:: Buck3 {"position":"1186,392","size":"100,100"}
+
+
+|noClick6>[(color: #ff86c0)[ //- I know Dad, I know//] ]
+(mouseover-append: ?noClick6)[
+(display: "Bob4")
+] 
+
+
+:: Buck4 {"position":"1447.6000061035156,389","size":"100,100"}
+
+
+|noClick8>[(color: #ff86c0)[ //When Dad? //] ]
+(mouseover-append: ?noClick8)[
+(display: "Bob5")
+] 
+
+
+:: Buck5 {"position":"4044.800048828125,1257.3999938964844","size":"100,100"}
+
+
+|noClick33>[(color: #ff86c0)[ //Ha! She done told you.//]]
+(mouseover-append: ?noClick33)[
+(display: "Randall3")
+] 
+
+
+:: Buck6 {"position":"3795.199951171875,1255","size":"100,100"}
+
+
+|noClick35>[(color: #ff86c0)[ //I've seen better days. What you call me hear for Randall? You said you had something important to discuss with me.//]]
+(mouseover-append: ?noClick35)[
+(display: "Randall4")
+] 
+
+
+:: Buck7 {"position":"3559.199951171875,1238","size":"100,100"}
+
+
+|noClick37>[(color: #ff86c0)[ //Are you already drunk?//]]
+(mouseover-append: ?noClick37)[
+(display: "Randall5")
+] 
+
+
+:: Buck8 {"position":"3312.199951171875,1243","size":"100,100"}
+
+
+|noClick39>[(color: #ff86c0)[ //You have it all figured out huh?//]]
+(color:#808080)[ He did]
+(mouseover-append: ?noClick39)[
+(display: "Randall6")
+] 
+
+
+:: Buck9 {"position":"3062.199951171875,1240","size":"100,100"}
+
+
+
+|noClick41>[(color: #ff86c0)[ //What'cha you need me for then Randy?//]]
+(mouseover-append: ?noClick41)[
+(display: "Randall7")
+] 
+
+
+:: Dad1 {"position":"1739.6000061035156,633","size":"100,100"}
+
+|noClick11>[(color: #000000)[ //Up early huh son? That's good. That's good. Ploughing the fields is best done early. Your Mom and I want to talk to you about something very serious. It's about...uh...it's about-//]]
+(mouseover-append: ?noClick11)[
+(display: "Mom1")
+] 
+
+
+:: Dad2 {"position":"1971,634","size":"100,100"}
+
+
+|noClick13>[(color: #000000)[ //-Gyalo! I wanted to tell him!//]]
+(mouseover-append: ?noClick13)[
+(display: "Mom2")
+] 
+
+
+:: Dad3 {"position":"2596,641","size":"100,100"}
+
+
+|noClick18>[(color: #000000)[ //Don't apologise son. Remember our teachings-//]]
+(mouseover-append: ?noClick18)[
+(display: "Mom3")
+] 
+
+
+:: Dad4 {"position":"2883,636","size":"100,100"}
+
+
+|noClick20>[(color: #000000)[ //Oh my goodness! Your Mom is going to drive me to my grave before my lungs do!//]]
+(mouseover-append: ?noClick20)[
+(display: "Mom4")
+] 
+
+
+:: Dad5 {"position":"3145,637","size":"100,100"}
+
+
+|noClick22>[(color: #000000)[ //That's not the only thing I still have. I got something else for you later tonight-//]]
+(mouseover-append: ?noClick22)[
+(display: "Aden5")
+] 
+
+
+:: Dad6 {"position":"3386.4000244140625,637","size":"100,100"}
+
+
+|noClick24>[(color: #000000)[ //What?! She was my wife before she was your mother! Okay, okay. This is serious. As I was saying...remember what our teaching say, 'all that comes from earth must go back to the earth'.//]]
+(mouseover-append: ?noClick24)[
+(display: "Aden6")
+] 
+
+
+:: Dad7 {"position":"3647.4000244140625,637","size":"100,100"}
+
+
+|noClick26>[(color: #000000)[ //You will be the man of the house soon. You have greater calling and must honour it son.//]]
+(mouseover-append: ?noClick26)[
+(display: "Aden7")
+] 
+
+
+:: Eventually {"position":"1610.6000061035156,516","size":"100,100"}
+
+(set:$dynamicCombinedStyles to (css: "font-size: 150%")+(t8n: "pulse"))$dynamicCombinedStyles[<u>Aden's story</u>]
+
+(enchant: ?page, (background: white) + (text-colour: black))
+
+|soundbowl>[<img src="images/sound_bowl.png">]
+
+(color:#808080)[ This is my story, oh how I miss these days.]
+
+|noClick9>[(color: #000000)[ //Aden! Aden! Come inside, your father and I want to talk to you.//]]
+(mouseover-append: ?noClick9)[
+(display: "Aden1")
+] 
+
+
+:: I'm in {"position":"3088,1842.5999755859375","size":"100,100"}
+
+
+(enchant: ?page, (background: white) + (text-colour: black))
+|adenshouse>[<img src="images/aden'shouse.png">]
+
+
+|noClick47>[(color: #000000)[ //I am really sorry about your Dad Aden. He was a great man.//]]
+(mouseover-append: ?noClick47)[
+(display: "Aden8")
+] 
+
+
+:: Kaylani1 {"position":"3096.39990234375,2122.800048828125","size":"100,100"}
+
+
+|noClick49>[(color: #000000)[ //How are you holding up?//]]
+(mouseover-append: ?noClick49)[
+(display: "Aden9")
+] 
+
+
+:: Kaylani2 {"position":"3250.39990234375,2266.800048828125","size":"100,100"}
+
+
+|noClick51>[(color: #000000)[ //But you know our teachings are against the need for more. You are where you are supposed to be. And you must make due with what you have. You will be a slave to worldly pleasures.//]]
+(mouseover-append: ?noClick51)[
+(display: "Aden10")
+] 
+
+
+:: Kaylani3 {"position":"3519.39990234375,2257.800048828125","size":"100,100"}
+
+
+
+|noClick53>[(color: #000000)[ //No buts.//]]
+(mouseover-append: ?noClick53)[
+(display: "Aden11")
+] 
+
+
+:: Kaylani4 {"position":"3782.60009765625,2255.800048828125","size":"100,100"}
+
+
+|noClick55>[(color: #000000)[ //Of course.//]]
+(mouseover-append: ?noClick55)[
+(display: "Kaylani5")
+] 
+
+
+:: Kaylani5 {"position":"3923.60009765625,2245.800048828125","size":"100,100"}
+
+
+[[Let's plant the hell out of these bananas!]]
+
+
+:: Let's eat before food gets cold. {"position":"4032,773","size":"100,100"}
+
+
+|shothand>[<img src="images/shothand.png">]
+
+(color:#808080)[ I didn't know it yet but this dumb tard was sitting on a gold mine]
+
+|noClick29>[(color: #FFFFFF)[ //Here ya go Buck.//]]
+(mouseover-append: ?noClick29)[
+(display: "Randall1")
+] 
+
+
+:: Let's plant the hell out of these bananas! {"position":"3937.60009765625,2411.800048828125","size":"100,100"}
+
+
+|yearone>[<img src="images/year1.png">]
+
+(click: ?yearone)[(goto: "Year2")]
+
+
+
+//**Not bad for our first year Buck, have you paid the workers?
+Get back to me as soon as you can please**// - Randy
+
+
+:: Lisa {"position":"4040.60009765625,1017.3999938964844","size":"100,100"}
+
+
+|noClick31>[(color: #FFFFFF)[ //Eat shit.//]]
+(mouseover-append: ?noClick31)[
+(display: "Randall2")
+] 
+
+
+:: Mom1 {"position":"1857,631","size":"100,100"}
+
+
+|noClick12>[(color: #000000)[ //**It's about your father's health. He is not doing very well. The dust from years of dust from the fields have filled his lungs. Doctor said he doesn't have long to live. So-**//]]
+(mouseover-append: ?noClick12)[
+(display: "Dad2")
+] 
+
+
+:: Mom2 {"position":"2094,628","size":"100,100"}
+
+
+|noClick14>[(color: #000000)[ //**Okay okay, I'm sorry.**//]]
+(mouseover-append: ?noClick14)[
+(display: "Aden2")
+] 
+
+
+:: Mom3 {"position":"2746,633","size":"100,100"}
+
+
+|noClick19>[(color: #000000)[ //**Soyang! This is not the right time for teachings. It's a sentimental moment with your son!**//]]
+(mouseover-append: ?noClick19)[
+(display: "Dad4")
+] 
+
+
+:: Mom4 {"position":"3014.4000244140625,634","size":"100,100"}
+
+
+|noClick21>[(color: #000000)[ //**It's nice to know you still have sense of humour. Ha!**//]]
+(mouseover-append: ?noClick21)[
+(display: "Dad5")
+] 
+
+
+:: Mom5 {"position":"3907,624","size":"100,100"}
+
+
+|noClick28>[(color: #000000)[ //**That's my boy. Okay, now I need tissue.**//]]
+(mouseover-append: ?noClick28)[
+(display: "Mom6")
+] 
+
+
+:: Mom6 {"position":"4034,629","size":"100,100"}
+
+
+[[Let's eat before food gets cold.]]
+
+
+:: Randall1 {"position":"4032.800048828125,891.3999938964844","size":"100,100"}
+
+
+|noClick30>[(color: #FFFFFF)[ //**Hey Lisa.**//]]
+(mouseover-append: ?noClick30)[
+(display: "Lisa")
+] 
+
+
+:: Randall10 {"position":"2962,1704.5999755859375","size":"100,100"}
+
+
+|noClick46>[(text-style: "blur")[//**Buster told me that there's a huge market out there for bananas...I know what you're thinking, bananas? As crazy as it sounds yeah there's a gap in the market. Not many places grow bananas anymore. The Oakley's are selling off some of their land. And we know anything grows fast over there. Tom and Dani are too lazy to do anything. I mean they ain't lazy. They are just well of ya now? So I was thinking...
+
+We buy off some of the land and start a banana farm or plantation - whatever the heck it's called. I'm telling you Buck this is our big ticket. If we play our cards right we could be set to make six figures. With your Accounting and Finance background and my wits - we could create a multi-million dollar company.**//]]
+(mouseover-append: ?noClick46)[
+(display: "Buck11")
+] 
+
+
+:: Randall2 {"position":"4044.60009765625,1134","size":"100,100"}
+
+
+
+|noClick32>[(color: #FFFFFF)[ //**As lady-like as ever.**//]]
+(mouseover-append: ?noClick32)[
+(display: "Buck5")
+] 
+
+
+:: Randall3 {"position":"3910.199951171875,1257","size":"100,100"}
+
+
+|noClick34>[(color: #FFFFFF)[ //**Don't let her fool you...she wants me. Anyways, how ya been Buck?**//]]
+(mouseover-append: ?noClick34)[
+(display: "Buck6")
+] 
+
+
+:: Randall4 {"position":"3671.199951171875,1258","size":"100,100"}
+
+
+|noClick36>[(color: #FFFFFF)[ //**Alright, alright. Let me cut to the chase. I want us to start a business.**//]]
+(mouseover-append: ?noClick36)[
+(display: "Buck7")
+] 
+
+
+:: Randall5 {"position":"3434.199951171875,1241","size":"100,100"}
+
+
+
+|noClick38>[(color: #FFFFFF)[ //**I wish! Hear me out Buck. I think we could do it. A real partnership. We'll split everything fifty -fifty. **//]]
+(mouseover-append: ?noClick38)[
+(display: "Buck8")
+] 
+
+
+:: Randall6 {"position":"3188.199951171875,1240","size":"100,100"}
+
+
+
+|noClick40>[(color: #FFFFFF)[ //I'm serious man. We could make a fortune. //]]
+(mouseover-append: ?noClick40)[
+(display: "Buck9")
+] 
+
+
+:: Randall7 {"position":"2947.800048828125,1241","size":"100,100"}
+
+
+
+|noClick42>[(color: #FFFFFF)[ //**Start u-**//]]
+(mouseover-append: ?noClick42)[
+(display: "Buck10")
+] 
+
+
+:: Randall8 {"position":"2952.800048828125,1472","size":"100,100"}
+
+
+
+|noClick44>[(color: #FFFFFF)[ //Yeeeepidooo//]]
+(mouseover-append: ?noClick44)[
+(display: "Randall9")
+] 
+
+
+:: Randall9 {"position":"2957.800048828125,1591","size":"100,100"}
+
+
+|noClick45>[ (color: #FFFFFF)[//Here's the plan//]]
+(mouseover-append: ?noClick45)[
+(display: "Randall10")
+] 
+
+
+:: The End {"position":"4072.60009765625,3209.199951171875","size":"100,100"}
+
+
+
+(set:$dynamicCombinedStyles to (css: "font-size: 150%")+(t8n: "pulse"))$dynamicCombinedStyles[<u>The End</u>]
+
+
+
+:: Untitled Passage {"position":"551,274","size":"100,100"}
+
+
+|frontpage>[<img src="images/front_cover.png">]
+
+(click: ?frontpage)[(goto: "Buck introduction")]
+
+
+(enchant: ?page, (background: white) + (text-colour: black))
+
+
+:: Year2 {"position":"3938.60009765625,2573.39990234375","size":"100,100"}
+
+
+|yeartwo>[<img src="images/year2.png">]
+
+(click: ?yeartwo)[(goto: "Year3")]
+
+
+
+//**Business is really picking up. The workers are a couple payments short. I heard you bought a new car? Please write back.**// - Randy
+
+
+:: Year3 {"position":"3945.60009765625,2726.39990234375","size":"100,100"}
+
+|yearthree>[<img src="images/year3.png">]
+
+(click: ?yearthree)[(goto: "Year4")]
+
+
+
+//**Buck! Come on man? I had to pay the wrokers out of my own pocket? You  blocked my access to the business account? Plus Sandy wrote me and told me you bought a new house? And zebras to boot! What in the world are you doing buying zebras? Call me, ASAP!**// - Randy
+
+
+:: Year4 {"position":"3944.60009765625,2894","size":"100,100"}
+
+
+|yearfour>[<img src="images/year4.png">]
+
+(click: ?yearfour)[(goto: "Buck reading")]
+
+
+//**I don't know how you done it, I should have seen this comin you greedy bastard! How could you kick me out of my own company! Sure you had all the start up capital but I DID THE HARDWORK! I had all the ideas. No one will buy from you anymore! Not with that monk kicking your ass. You are the scum of the ear-**// 
+
+
+:: StoryStylesheet [stylesheet]
+tw-passage {
+   font-family: sylfaen;
+}
+
+
+tw-link {
+color: #ff3998;
+}
+
+.enchantment-link: hover,
+tw-link: hover {
+color: #ff86c0;
+}
+
+tw-link:hover, .enchantment-link:hover {
+    color: #ff86c0;
+}
+
+
+
+
+tw-passage {
+   text-align: center;
+}
+
+.beginning {
+  
+  font-size: 50%;
+}
+
+img {
+	max-width: 1500%;
+	max-width: 1000px;
+}
+
+
